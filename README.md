@@ -158,4 +158,9 @@ Template_df_BuRvCnt.json:
 ---------------------------
 Business name with its overallrate, count of checkin based on week and year and review rates for the same are given.
 
+Possible Problems :
+start-spark.sh - while running this docker file , it might give error.
+Kindly replace the CRLF with LF.
+
+
 
